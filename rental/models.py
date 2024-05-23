@@ -57,3 +57,4 @@ class Item(db.Model):
         self.owner = None
         user.budget += self.price
         db.session.commit()
+        
