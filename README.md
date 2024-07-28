@@ -23,7 +23,7 @@ cd farentals
 pip install -r requirements.txt
 
 4. 
-USAGE
+## USAGE
 Navigate to 127.0.0.1:8000 in your browser
 TEAM
 Michael Denver Jumah - Backend Developer, Frontend Developer and DevOps
