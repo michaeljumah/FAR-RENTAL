@@ -25,14 +25,14 @@ pip install -r requirements.txt
 4. 
 ## USAGE
 Navigate to 127.0.0.1:8000 in your browser
-TEAM
+#TEAM
 Michael Denver Jumah - Backend Developer, Frontend Developer and DevOps
-LICENSING
+#LICENSING
 This work is still NULL
 VERSION: 0.3.4 only for development purposes please ignore
 
 
-How to run the app locally
+#How to run the app locally
     set FLASK_APP=run.py 
     set FLASK_DEBUG=1
     flask run
@@ -41,7 +41,7 @@ How to run the app locally
     run:
         python run.py
 
-how to start a db 
+#How to start a db 
 run:
     python
     import os
