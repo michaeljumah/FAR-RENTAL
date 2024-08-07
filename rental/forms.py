@@ -30,5 +30,6 @@ class LoginForm(FlaskForm):
 class PurchaseItemForm(FlaskForm):
     submit = SubmitField(label='Rent Property!')
 
+
 class SellItemForm(FlaskForm):
     submit = SubmitField(label='Return Property!')
