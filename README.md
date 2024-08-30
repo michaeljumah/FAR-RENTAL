@@ -12,7 +12,7 @@ Flask
 ## INSTALLATION
 1. Clone this repo
 
-git clone [GitHub:](https://github.com/michaeljumah/FAR-RENTAL.git)
+[git clone] (https://github.com/michaeljumah/FAR-RENTAL.git)
 
 2. Navigate into the project directory
 
