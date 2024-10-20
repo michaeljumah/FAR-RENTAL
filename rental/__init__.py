@@ -7,8 +7,9 @@ import os
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get("DATABASE_URL") #'sqlite:///rental.db'
+app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
-app.config['SECRET_KEY'] = '38686699db8a350e76a19df4'
+#app.config['SECRET_KEY'] = '38686699db8a350e76a19df4'
 db = SQLAlchemy(app)
 app.app_context().push()
 bcrypt = Bcrypt(app)
