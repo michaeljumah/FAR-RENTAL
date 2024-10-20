@@ -42,7 +42,11 @@ VERSION: 0.3.4 only for development purposes please ignore
         python run.py
 
 ### How to start a db 
+
+#postgresql://farentaldb_1n03_user:emk3TijQADx3qjRDzNXKim3Nj8rzSdQh@dpg-csanp608fa8c73cquepg-a.oregon-postgres.render.com/farentaldb_1n03
+
 run:
+
     python
     import os
 
