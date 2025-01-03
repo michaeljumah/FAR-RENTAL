@@ -14,7 +14,7 @@ Flask
 
 [git clone](https://github.com/michaeljumah/FAR-RENTAL.git)
 
-### 2. Navigate into the project directory
+## 2. Navigate into the project directory
 
 cd farentals
 
