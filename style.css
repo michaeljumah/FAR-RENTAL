@@ -211,7 +211,7 @@ nav {
 
 .secondary__btn {
     color: var(--secondary-color);
-    background-color: transparent;
+    background-color: var(--primary-color);
 }
 
 .socials {
